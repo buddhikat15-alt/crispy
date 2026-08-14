@@ -21,7 +21,7 @@ const PRODUCTS = [
     id: "spicy-mix",
     name: "Spicy Mix",
     desc: "Bold, crunchy trail mix of lentils, peanuts and sev.",
-    price: 620,
+    price: 299,
     weight: "100g",
     img: "assets/spicy-mix.jpg",
     tag: "Spicy"
@@ -30,7 +30,7 @@ const PRODUCTS = [
     id: "spicy-corn",
     name: "Spicy Corn",
     desc: "Crunchy roasted corn kernels in a bold chilli coat.",
-    price: 580,
+    price: 299,
     weight: "100g",
     img: "assets/spicy-corn.jpg",
     tag: "Spicy"
@@ -39,7 +39,7 @@ const PRODUCTS = [
     id: "rice-crackers",
     name: "Rice Crackers",
     desc: "Light, crispy rice discs with a subtle spiced seasoning.",
-    price: 540,
+    price: 399,
     weight: "100g",
     img: "assets/rice-crackers.jpg",
     tag: null
@@ -48,8 +48,8 @@ const PRODUCTS = [
     id: "coconut-chips",
     name: "Crispy Coconut Chips",
     desc: "Oven-baked coconut shavings, toasted for a delicate crunch.",
-    price: 690,
-    weight: "80g",
+    price: 489,
+    weight: "100g",
     img: "assets/coconut-chips.jpg",
     tag: null
   },
@@ -57,7 +57,7 @@ const PRODUCTS = [
     id: "spicy-cassava-chips",
     name: "Spicy Cassava Chips",
     desc: "Hand-sliced cassava, fried crisp with a fiery finish.",
-    price: 560,
+    price: 549,
     weight: "100g",
     img: "assets/spicy-cassava-chips.jpg",
     tag: "Spicy"
@@ -66,7 +66,7 @@ const PRODUCTS = [
     id: "variety-pack",
     name: "Variety Pack",
     desc: "Eight gourmet Sri Lankan snacks in one gift-ready box.",
-    price: 3200,
+    price: 1799,
     weight: "800g (8x100g)",
     img: "assets/variety-pack.jpg",
     tag: null
