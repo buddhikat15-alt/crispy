@@ -5,7 +5,7 @@
 // format, no + or spaces, e.g. "94771234567").
 // ============================================================
 
-const WHATSAPP_NUMBER = "94700000000"; // TODO: replace with your real WhatsApp number
+const WHATSAPP_NUMBER = "94768001294"; // TODO: replace with your real WhatsApp number
 
 const PRODUCTS = [
   {
@@ -207,6 +207,6 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
     const msg = buildWhatsAppMessage();
-    window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${msg}`, "_blank");
+    window.open(`https://wa.me/${+94768001294}?text=${msg}`, "_blank");
   });
 });
