@@ -215,3 +215,15 @@ p{margin:0 0 1em;}
   .story-media{order:-1;}
   .footer-inner{grid-template-columns:1fr;}
 }
+<style>
+  .mobile-video {
+    width: 100%;
+    max-width: 100%; /* Screen eken pitata yana eka nawathwanawa */
+    height: auto;    /* Video eke original aspect ratio eka araksha karanawa */
+  }
+</style>
+
+<video class="mobile-video" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
