@@ -14,7 +14,7 @@ const PRODUCTS = [
     desc: "Whole Ceylon cashews, oven-roasted and lightly salted.",
     price: 950,
     weight: "100g",
-    img: "assets/roasted-cashews.jpg",
+    img: "assets/roasted-cashews.jpeg",
     tag: null
   },
   {
@@ -23,7 +23,7 @@ const PRODUCTS = [
     desc: "Bold, crunchy trail mix of lentils, peanuts and sev.",
     price: 299,
     weight: "100g",
-    img: "assets/spicy-mix.jpg",
+    img: "assets/spicy-mix.jpeg",
     tag: "Spicy"
   },
   {
@@ -32,7 +32,7 @@ const PRODUCTS = [
     desc: "Crunchy roasted corn kernels in a bold chilli coat.",
     price: 299,
     weight: "100g",
-    img: "assets/spicy-corn.jpg",
+    img: "assets/spicy-corn.jpeg",
     tag: "Spicy"
   },
   {
@@ -41,7 +41,7 @@ const PRODUCTS = [
     desc: "Light, crispy rice discs with a subtle spiced seasoning.",
     price: 399,
     weight: "100g",
-    img: "assets/rice-crackers.jpg",
+    img: "assets/rice-crackers.jpeg",
     tag: null
   },
   {
@@ -50,7 +50,7 @@ const PRODUCTS = [
     desc: "Oven-baked coconut shavings, toasted for a delicate crunch.",
     price: 489,
     weight: "100g",
-    img: "assets/coconut-chips.jpg",
+    img: "assets/coconut-chips.jpeg",
     tag: null
   },
   {
@@ -59,7 +59,7 @@ const PRODUCTS = [
     desc: "Hand-sliced cassava, fried crisp with a fiery finish.",
     price: 549,
     weight: "100g",
-    img: "assets/spicy-cassava-chips.jpg",
+    img: "assets/spicy-cassava-chips.jpeg",
     tag: "Spicy"
   },
   {
@@ -68,7 +68,7 @@ const PRODUCTS = [
     desc: "Eight gourmet Sri Lankan snacks in one gift-ready box.",
     price: 1799,
     weight: "800g (8x100g)",
-    img: "assets/variety-pack.jpg",
+    img: "assets/variety-pack.jpeg",
     tag: null
   }
 ];
