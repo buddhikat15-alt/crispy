@@ -69,7 +69,7 @@ const PRODUCTS = [
     price: 1799,
     weight: "800g (8x100g)",
     img: "assets/variety-pack.jpeg",
-    tag: null
+    tag: "New"
   }
 ];
 
